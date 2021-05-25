@@ -1,4 +1,4 @@
-# personal-website-template
+# My personal-website-template
 
 A simple one page template suited for personal and portfolio pages. 
 
